@@ -4,7 +4,7 @@
     "fontItems": [
       {
         "fontVarient": {
-          "fontWeight": " w700",
+          "fontWeight": "w700",
           "fontStyle": "regular"
         },
         "fontFile": {
