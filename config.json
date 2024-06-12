@@ -34,6 +34,20 @@
           "sha256": "66fea9c00091f25eb8a526548023b6154785876a900af2d8f472922689698163",
           "sizeInBytes": 299684
         }
+      },
+      {
+        "fontVarient": {
+          "fontWeight": "w700",
+          "fontStyle": "regular"
+        },
+        "fontFile": {
+          "fontVarient": {
+            "fontWeight": "w700",
+            "fontStyle": "regular"
+          },
+          "sha256": "6dbcce3fdd846f3aebc7e1890b5ccca234806cbd84763785f7ced043a99e8268",
+          "sizeInBytes": 270164
+        }
       }
     ]
   }
