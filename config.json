@@ -1,0 +1,40 @@
+[
+  {
+    "font": "Tiny5",
+    "fontItems": [
+      {
+        "fontVarient": {
+          "fontWeight": " w700",
+          "fontStyle": "regular"
+        },
+        "fontFile": {
+          "fontVarient": {
+            "fontWeight": "w700",
+            "fontStyle": "regular"
+          },
+          "sha256": "bee1bd63864d4cec0aee0dde293d69a47632990cea64ba53b0ff75aac193c2e0",
+          "sizeInBytes": 131452
+        }
+      }
+    ]
+  },
+  {
+    "font": "Ubuntu",
+    "fontItems": [
+      {
+        "fontVarient": {
+          "fontWeight": " w700",
+          "fontStyle": "regular"
+        },
+        "fontFile": {
+          "fontVarient": {
+            "fontWeight": "w700",
+            "fontStyle": "regular"
+          },
+          "sha256": "66fea9c00091f25eb8a526548023b6154785876a900af2d8f472922689698163",
+          "sizeInBytes": 299684
+        }
+      }
+    ]
+  }
+]
