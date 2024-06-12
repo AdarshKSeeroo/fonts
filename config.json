@@ -50,5 +50,38 @@
         }
       }
     ]
+  },
+  {
+    "font": "Gwendolyn",
+    "fontItems": [
+      {
+        "fontVarient": {
+          "fontWeight": "normal",
+          "fontStyle": "regular"
+        },
+        "fontFile": {
+          "fontVarient": {
+            "fontWeight": "normal",
+            "fontStyle": "regular"
+          },
+          "sha256": "dae109107bbebc597439365d1260a6ae304ab5b3224828c08568b7ed68bcf332",
+          "sizeInBytes": 159476
+        }
+      },
+      {
+        "fontVarient": {
+          "fontWeight": "w700",
+          "fontStyle": "regular"
+        },
+        "fontFile": {
+          "fontVarient": {
+            "fontWeight": "w700",
+            "fontStyle": "regular"
+          },
+          "sha256": "1d5875dda2ddb6445a8a7f721c7e1f550d7fc34545886227d6a8fc902a28ad65",
+          "sizeInBytes": 166476
+        }
+      }
+    ]
   }
 ]

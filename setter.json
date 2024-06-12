@@ -1,1 +1,5 @@
-{"name":"Tiny5","fontWeight": "normal"}
+[
+  {"name":"Tiny5","fontWeight": "normal"},
+  {"name": "Ubuntu","fontWeight": "normal"},
+  {"name": "Gwendolyn","fontWeight": "normal"}
+]
