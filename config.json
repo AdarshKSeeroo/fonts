@@ -23,12 +23,12 @@
     "fontItems": [
       {
         "fontVarient": {
-          "fontWeight": "w700",
+          "fontWeight": "normal",
           "fontStyle": "regular"
         },
         "fontFile": {
           "fontVarient": {
-            "fontWeight": "w700",
+            "fontWeight": "normal",
             "fontStyle": "regular"
           },
           "sha256": "66fea9c00091f25eb8a526548023b6154785876a900af2d8f472922689698163",
