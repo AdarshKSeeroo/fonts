@@ -92,5 +92,42 @@
         }
       }
     ]
+  },
+  {
+    "font": "Poppins",
+    "fontItems": [
+      {
+        "fontVarient": {
+          "fontWeight": "normal",
+          "fontStyle": "regular"
+        },
+        "fontFile": {
+          "fontVarient": {
+            "fontWeight": "normal",
+            "fontStyle": "regular"
+          },
+          "sha256": "45ad3c794aedbe7be0cd20c68f57464cdb0cdaf001e587e80fb5b6130294712f",
+          "sizeInBytes": 95176,
+          "format": "otf"
+
+        }
+      },
+      {
+        "fontVarient": {
+          "fontWeight": "w700",
+          "fontStyle": "regular"
+        },
+        "fontFile": {
+          "fontVarient": {
+            "fontWeight": "w700",
+            "fontStyle": "regular"
+          },
+          "sha256": "50af8bcb91e0e404c550d5cecd5c2c084786574555cc81ebae8754bad9c39ce9",
+          "sizeInBytes": 95496,
+          "format": "otf"
+
+        }
+      }
+    ]
   }
 ]
